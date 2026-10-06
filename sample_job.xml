@@ -1,0 +1,24 @@
+<superfamily name="Hominoidea">
+    <family name="Hominidea">
+        <subfamily name="Homininae">
+            <tribe name="Homonini"> 
+                <genera name="Hominini">
+                    <species name="Human"/>
+                </genera>
+                <genera name="Pan"> 
+                    <species name="Bonobo">
+                    <species name="Chimpanzee"> 
+                </genera>
+        </subfamily>
+        <subfamily name="Ponginae">
+            <genera name="Pongo">
+                <species name="Orangutan"/>
+            </genera>
+        </subfamily>
+    </family>
+    <family name="Hylobatidae">
+        <genera name="Hylobates">
+            <species name="Orangutan"/>
+        </genera>
+    </family>
+</superfamily>
